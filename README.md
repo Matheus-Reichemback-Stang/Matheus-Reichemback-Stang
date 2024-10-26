@@ -3,7 +3,7 @@
 ### Sobre mim
 Comecei a estudar programação em 2023 na instituição ***EBAC - Escola Britânica de Artes Criativas e Tecnologia***. No decorrer desse caminho, obtive diversos conhecimentos sobre essa área e desenvolvi diversas competências, tanto no Front-end quanto no Back-end. Hoje, estou aberto a oportunidades para ingressar no mercado de trabalho. Caso queira ver meu portfólio, clique no link abaixo.
 
-[![Portfólio](https://img.shields.io/badge/portifólio-000000?style=for-the-badge&logo=About.meu&logoColor=white)](https://zkd-portfolio.netlify.app "Visitar portfólio")
+[![Portfólio](https://img.shields.io/badge/portfólio-000000?style=for-the-badge&logo=About.meu&logoColor=white)](https://zkd-portfolio.netlify.app "Visitar portfólio")
 
 ---
 ![Matheus Reichemback Stang's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-reichemback-stang&show_icons=true&theme=dark)
