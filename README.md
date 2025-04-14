@@ -1,7 +1,7 @@
 ## Olá! Eu sou Matheus Reichemback Stang ✌
 
 ### Sobre mim
-Comecei a estudar programação em 2023 na instituição ***EBAC - Escola Britânica de Artes Criativas e Tecnologia***. No decorrer desse caminho, obtive diversos conhecimentos sobre essa área e desenvolvi diversas competências, tanto no Front-end quanto no Back-end. Hoje, estou aberto a oportunidades para ingressar no mercado de trabalho. Caso queira ver meu portfólio, clique no link abaixo.
+Comecei a estudar programação em 2023 na instituição ***EBAC - Escola Britânica de Artes Criativas e Tecnologia***. No decorrer desse caminho, obtive diversos conhecimentos sobre essa área e desenvolvi diversas competências, tanto no Front-end quanto no Back-end. Atualmente, no ano de 2025, estou cursando **_Análise e Desenvolvimento de Sistemas_** na **_UNIPAR (Universidade Paranaense)_**, onde estou aprimorando minhas habilidades já obtidas anteriormente. Caso queira ver meu portfólio, clique no link abaixo.
 
 [![Portfólio](https://img.shields.io/badge/portfólio-000000?style=for-the-badge&logo=About.meu&logoColor=white)](https://zkd-portfolio.netlify.app "Visitar portfólio")
 
@@ -38,7 +38,6 @@ Comecei a estudar programação em 2023 na instituição ***EBAC - Escola Britâ
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -46,7 +45,6 @@ Comecei a estudar programação em 2023 na instituição ***EBAC - Escola Britâ
 #### IDEs
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntellijIDE](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Spring Tools 4](	https://img.shields.io/badge/Spring--Tools--4-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 ### Contato
